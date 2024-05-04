@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#a7ebf2;
+    text-align: center;
+    margin-top: 200px;
+}
+#time{
+    font-size: 150px;
+
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    margin: 0 20px 0 ;
+    font-size: large;
+    font-weight: bold;
+}
